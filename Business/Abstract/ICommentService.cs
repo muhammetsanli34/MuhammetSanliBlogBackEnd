@@ -16,4 +16,5 @@ namespace Business.Abstract
         SuccessDataResult<Comment> GetById(int id);
         SuccessDataResult<List<Comment>> GetAll();
     }
+    
 }
